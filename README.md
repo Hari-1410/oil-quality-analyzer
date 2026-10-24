@@ -88,7 +88,9 @@ Issues and pull requests are welcome. Please include the board revision, sensor 
 
 ## License
 
-No top-level project license was present in the supplied snapshot. Third-party STM32 and X-CUBE-AI components include their own license files. Before publishing this repository, choose and add a license for your original code and retain all third-party notices. Do not assume that the whole repository is covered by the STM32 component licenses.
+The original project code is licensed under the MIT License.
+
+This repository also includes third-party components from STMicroelectronics, STM32Cube HAL, CMSIS, and X-CUBE-AI, which may be subject to separate license terms. Their original license files and notices are retained where applicable. The MIT License for the original project code does not override or replace the licenses governing those third-party components.
 
 ## Oil classification and remaining-cycle estimate
 
