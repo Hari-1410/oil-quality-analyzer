@@ -1,0 +1,32 @@
+# STM32CubeIDE / Eclipse build output
+Debug/
+Release/
+.metadata/
+.settings/.cache/
+
+#others
+/Others - Ignore Gitpush/
+
+# Compiled objects, dependency files, and debug/build products
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.lst
+*.tmp
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs and temporary captures
+*.log
+*.trace
